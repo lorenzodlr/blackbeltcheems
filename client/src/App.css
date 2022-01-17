@@ -1,0 +1,69 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+}
+
+.header-img {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  z-index: 0;
+}
+
+.left-container, .right-container {
+  position: absolute;
+}
+
+.left-container {
+  top: 11%;
+  left: 5vw;
+}
+
+.right-container {
+  top: 18%;
+  right: 3vw;
+}
+
+.outer-a {
+  position: relative;
+  bottom: 25px;
+}
+
+a {
+  margin: 0 20px;
+  color: rgb(219, 186, 110);
+  transition: 0.2s color;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.contract-info-container {
+  position: relative;
+  top: 250px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contract-info-container h3 {
+  word-wrap: break-word;
+  max-width: 500px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.contract-info-container img {
+  height: 350px;
+  width: 350px;
+}
+
+.contract-info-container p {
+  padding: 0 5%;
+}

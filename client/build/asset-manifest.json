@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a74694d.css",
+    "main.js": "/static/js/main.9d02352b.js",
+    "static/js/787.4d2dc02e.chunk.js": "/static/js/787.4d2dc02e.chunk.js",
+    "static/media/bbc-logo.png": "/static/media/bbc-logo.2c76e866c0f04c693c69.png",
+    "static/media/Black-belt-large.png": "/static/media/Black-belt-large.0b06164f15e5010db11e.png",
+    "index.html": "/index.html",
+    "main.8a74694d.css.map": "/static/css/main.8a74694d.css.map",
+    "main.9d02352b.js.map": "/static/js/main.9d02352b.js.map",
+    "787.4d2dc02e.chunk.js.map": "/static/js/787.4d2dc02e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a74694d.css",
+    "static/js/main.9d02352b.js"
+  ]
+}
