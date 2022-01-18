@@ -8,6 +8,7 @@
   height: auto;
   position: fixed;
   z-index: 0;
+  background-color: red;
 }
 
 .left-container, .right-container {

@@ -13,13 +13,13 @@ function App() {
         <a className='inner-a'>Liquidity Lock</a>
       </div>
       <div className='right-container'>
-        <a className='inner-a'>Twitter</a>
+        <a href='https://twitter.com/BlackBeltCheems?s=09' target='__blank' rel='norefferer noopener' className='inner-a'>Twitter</a>
         <a className='outer-a'>Instagram</a>
       </div>
       <div className='contract-info-container'>
         <h3>contract address</h3>
         <img src={logo} className='coin-logo' alt='black belt cheems logo' />
-        <h5>Master in the arts of Shitcoins.</h5>
+        <h5>Master in the art of Shitcoins.</h5>
         <p>BBC is a grower not a shower. So let's grow this chart and take it to the moon. Diamond dicks only.</p>
       </div>
     </div>
