@@ -9,11 +9,11 @@ function App() {
         <img src={belt} className='header-img' alt='black belt' />
       </div>
       <div className='left-container'>
-        <a className='outer-a'>PooCoin Chart</a>
+        <a href='https://poocoin.app/tokens/0x5d7568966c98d5904781fb029a947301c15ab9ad' className='outer-a'>PooCoin Chart</a>
         <a className='inner-a'>Liquidity Lock</a>
       </div>
       <div className='right-container'>
-        <a className='inner-a'>Twitter</a>
+        <a href='https://twitter.com/BlackBeltCheems?s=09' className='inner-a'>Twitter</a>
         <a className='outer-a'>Instagram</a>
       </div>
       <div className='contract-info-container'>
