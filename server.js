@@ -10,10 +10,6 @@ server.get('/*', (req, res) => {
     res.sendFile( path.join(__dirname, 'client/build', 'index.html') )
 })
 
-server.get('/test', (req, res) => {
-    res.send('hello')
-})
-
 server.listen(PORT, () => {
     console.log(`Server listening on port ${PORT}...`)
 })
